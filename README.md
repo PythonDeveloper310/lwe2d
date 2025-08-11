@@ -1,7 +1,7 @@
 # LWE2D
 
-LWE2D is a lightweight 2D game engine built using Pygame.  
-It is designed to be simple, minimal, and easy to extend, it is also open-source so you can customize or make new things with it.
+Light Weight Engine 2D or LWE2D for short is a simple 2D game engine built using Pygame.  
+It is designed to be small, minimal, and easy to extend, it is also open-source so you can customize or make new things with it.
 
 ## Features
 - Lightweight core for easy understanding and customization
