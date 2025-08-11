@@ -18,7 +18,10 @@ It is designed to be small, minimal, and easy to extend, it is also open-source 
   ```
 3. Clone the repository and run an example:
   ```bash
-  python -m src.main
+  git clone https://github.com/PythonDeveloper310/lwe2d/
+  cd lwe2d
+  python -m examples.player
+  python -m examples.shapes
   ```
 
 ## Example/Quick Start
