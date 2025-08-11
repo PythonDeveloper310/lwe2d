@@ -1,0 +1,5 @@
+.venv/
+dist/
+lwe2d.egg-info/
+.python-version
+uv.lock
