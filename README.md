@@ -71,11 +71,11 @@ engine.get_mouse_position()              # (x, y) position of the mouse
 
 ### Drawing
 ```python
-renderer.clear((r, g, b))                 # Clear screen with color
+renderer.clear((r, g, b))                 # Clear screen with color, default is black
 renderer.draw_circle(x, y, radius, color, width)  
 renderer.draw_square(x, y, size, color, width)  
 renderer.draw_triangle(p1, p2, p3, color, width)  
-renderer.render_text_or_image(obj, rect)  # Draw text or images
+renderer.render_surface(surface, rect)  # Draw surfaces like text and image
 ```
 
 ---
